@@ -1,4 +1,4 @@
-# Transform ggml with GTP-J to a simple server
+# A test of ggml with GTP-J with a simple server
 
 Inspired by [ggml exemple](https://github.com/ggerganov/ggml)
 (it's not perfect, but it's just a test)
